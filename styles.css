@@ -1,0 +1,15 @@
+* {
+    background: yellow;
+}
+.menu {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 90px;
+}
+
+li {
+    font-size: xx-large;
+    text-align: center;
+    list-style-type: none;
+}
